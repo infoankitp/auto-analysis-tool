@@ -1,8 +1,8 @@
 # Eyewear Anomaly Detection & RCA Automation
 
-**Owner:** Retail ML Platform Team — Staff Data Engineering  
+**Owner:** Data Platform
 **Domain:** Spectacles & Eyewear Retail  
-**Status:** Active  
+**Status:** Active
 **Last Updated:** 2026-04-27
 
 ---
